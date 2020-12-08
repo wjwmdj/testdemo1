@@ -1,0 +1,80 @@
+2020-06-26 20:02:45org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-26 20:02:45org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:02:45org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:02:45org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:02:45org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:02:45org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:137) JdbcTransaction.java DEBUG Opening JDBC Connection
+2020-06-26 20:02:45org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:406) PooledDataSource.java DEBUG Created connection 532087022.
+2020-06-26 20:02:45org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==>  Preparing: insert into user values(?,?,?,?) 
+2020-06-26 20:02:45org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==> Parameters: 0(Integer), 测试(String), anccc(String), 2020-06-26 20:02:45.307(Timestamp)
+2020-06-26 20:17:32org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-26 20:17:32org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:17:32org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:17:32org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:17:32org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:17:32org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:137) JdbcTransaction.java DEBUG Opening JDBC Connection
+2020-06-26 20:17:32org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:406) PooledDataSource.java DEBUG Created connection 1600667055.
+2020-06-26 20:17:32org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==>  Preparing: insert into user values(?,?,?,?) 
+2020-06-26 20:17:32org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==> Parameters: 0(Integer), 测试(String), anccc(String), 1593173852483(Long)
+2020-06-26 20:17:32org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG <==    Updates: 1
+2020-06-26 20:17:32org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:91) JdbcTransaction.java DEBUG Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@5f683daf]
+2020-06-26 20:17:32org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:363) PooledDataSource.java DEBUG Returned connection 1600667055 to pool.
+2020-06-26 20:21:30org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-26 20:21:30org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:21:30org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:21:30org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:21:30org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:22:47org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-26 20:22:47org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:22:47org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:22:47org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:22:47org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-26 20:22:48org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:137) JdbcTransaction.java DEBUG Opening JDBC Connection
+2020-06-26 20:22:48org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:406) PooledDataSource.java DEBUG Created connection 694452085.
+2020-06-26 20:22:48org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==>  Preparing: select * from user WHERE id=? 
+2020-06-26 20:22:48org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==> Parameters: 6(Integer)
+2020-06-26 20:22:48org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG <==      Total: 1
+2020-06-26 20:22:48org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:91) JdbcTransaction.java DEBUG Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@29647f75]
+2020-06-26 20:22:48org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:363) PooledDataSource.java DEBUG Returned connection 694452085 to pool.
+2020-06-27 11:42:15org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-27 11:42:15org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-27 11:42:15org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-27 11:42:15org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-27 11:42:15org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-27 11:42:15org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:137) JdbcTransaction.java DEBUG Opening JDBC Connection
+2020-06-27 11:42:16org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:406) PooledDataSource.java DEBUG Created connection 561480862.
+2020-06-27 11:42:16org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==>  Preparing: select * from user 
+2020-06-27 11:42:16org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2020-06-27 11:42:16org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG <==      Total: 5
+2020-06-27 11:42:16org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:91) JdbcTransaction.java DEBUG Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2177849e]
+2020-06-27 11:42:16org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:363) PooledDataSource.java DEBUG Returned connection 561480862 to pool.
+2020-06-27 11:49:13org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-27 11:49:13org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-27 11:49:13org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-27 11:49:13org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-27 11:49:13org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-27 11:49:14org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:137) JdbcTransaction.java DEBUG Opening JDBC Connection
+2020-06-27 11:49:14org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:406) PooledDataSource.java DEBUG Created connection 1030684756.
+2020-06-27 11:49:14org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==>  Preparing: SELECT count(*) FROM user 
+2020-06-27 11:49:14org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2020-06-27 11:49:14org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG <==      Total: 1
+2020-06-27 11:49:14org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==>  Preparing: select * from user limit ?,? 
+2020-06-27 11:49:14org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==> Parameters: 0(Integer), 2(Integer)
+2020-06-27 11:49:14org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG <==      Total: 2
+2020-06-27 11:49:14org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:91) JdbcTransaction.java DEBUG Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3d6f0054]
+2020-06-27 11:49:14org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:363) PooledDataSource.java DEBUG Returned connection 1030684756 to pool.
+2020-06-27 11:54:29org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-27 11:54:29org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-27 11:54:29org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-27 11:54:29org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-27 11:54:29org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:335) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-06-27 11:54:29org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:137) JdbcTransaction.java DEBUG Opening JDBC Connection
+2020-06-27 11:54:30org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:406) PooledDataSource.java DEBUG Created connection 379645464.
+2020-06-27 11:54:30org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==>  Preparing: SELECT count(*) FROM user 
+2020-06-27 11:54:30org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2020-06-27 11:54:30org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG <==      Total: 1
+2020-06-27 11:54:30org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==>  Preparing: select * from user limit ?,? 
+2020-06-27 11:54:30org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG ==> Parameters: 0(Integer), 2(Integer)
+2020-06-27 11:54:30org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:159) BaseJdbcLogger.java DEBUG <==      Total: 2
+2020-06-27 11:54:30org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:91) JdbcTransaction.java DEBUG Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@16a0ee18]
+2020-06-27 11:54:30org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:363) PooledDataSource.java DEBUG Returned connection 379645464 to pool.
